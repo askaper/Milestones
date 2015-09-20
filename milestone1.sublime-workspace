@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Bob",
+				"hw_DocByAnchorObj"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/andrewskaper/rockit/lessons/CSS Lessons/Basic Properties/styles.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/andrewskaper/rockit/lessons/CSS Lessons/Basic Properties/index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Snipp",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"set ",
+				"Set Syntax: R"
+			],
+			[
+				"set syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"has",
+				"Set Syntax: Haskell"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"set syntax c",
+				"Set Syntax: C++"
+			],
+			[
+				"set syntax perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"set syntax: java",
+				"Set Syntax: Java"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"install",
+			"install emmet",
+			"install emmett",
+			"install package emmett",
+			"import urllib.request,os,hashlib; h = '5b468e895e861582c8ac080daaae7722' + 'a0787a887fb19723f006ed5b020ffdf6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"list",
+			"import urllib.request,os,hashlib; h = '5b468e895e861582c8ac080daaae7722' + 'a0787a887fb19723f006ed5b020ffdf6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andrewskaper/milestone1",
+		"/Users/andrewskaper/milestone1/css"
+	],
+	"file_history":
+	[
+		"/Users/andrewskaper/milestone1/product.php",
+		"/Users/andrewskaper/milestone1/footer.php",
+		"/Users/andrewskaper/milestone1/contact.php",
+		"/Users/andrewskaper/milestone1/browse.php",
+		"/Users/andrewskaper/milestone1/css/style.css",
+		"/Users/andrewskaper/milestone1/header.php",
+		"/Users/andrewskaper/milestone1/index.php",
+		"/Users/andrewskaper/Rockit/lesson notes/PHP Lessons/Basic Concepts/practice.php",
+		"/Users/andrewskaper/rockit/lessons/PHP Lessons/Basic Concepts/index.php",
+		"/Users/andrewskaper/rockit/lessons/CSS Lessons/basicselectors.css",
+		"/Users/andrewskaper/Rockit/lesson notes/PHP Lessons/Basic Concepts/index.php",
+		"/Users/andrewskaper/Rockit/codingpractices/fixedUpHTML.html",
+		"/Users/andrewskaper/Rockit/codingpractices/mixedUpCSS.css",
+		"/Users/andrewskaper/Rockit/codingpractices/mixedUpPHP.php",
+		"/Users/andrewskaper/Rockit/phpstuff/basicconcepts/footer.php",
+		"/Users/andrewskaper/Rockit/phpstuff/basicoperators/index.php",
+		"/Users/andrewskaper/Rockit/phpstuff/basicconcepts/bullshit.php",
+		"/Users/andrewskaper/Rockit/phpstuff/basicconcepts/numbers.php",
+		"/Users/andrewskaper/Rockit/phpstuff/basicconcepts/bullshit.html",
+		"/Users/andrewskaper/Rockit/phpstuff/basicconcepts/index.php",
+		"/Users/andrewskaper/Rockit/phpstuff/basicconcepts/garbage.php",
+		"/Users/andrewskaper/Rockit/lesson notes/Milestone 1/Terminal Commands.txt",
+		"/Users/andrewskaper/Rockit/lesson notes/index.js",
+		"/Users/andrewskaper/Rockit/lesson notes/index.html",
+		"/Users/andrewskaper/Rockit/lesson notes/Milestone 1/untitled.html",
+		"/Users/andrewskaper/Rockit/lesson notes/Lesson Notes.sublime-project",
+		"/Users/andrewskaper/Desktop/RockIt/movie/index.html",
+		"/Users/andrewskaper/Desktop/RockIt/movie/css/style.css",
+		"/Users/andrewskaper/Desktop/udemy/css/style.css",
+		"/Users/andrewskaper/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andrewskaper/Desktop/udemy/index.html",
+		"/Users/andrewskaper/Desktop/RockIt/html.html",
+		"/Users/andrewskaper/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/andrewskaper/Desktop/RockIt/movie.html",
+		"/Users/andrewskaper/Desktop/RockIt/mybio.html",
+		"/Users/andrewskaper/Desktop/RockIt/mybiostyle.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=\"\"></",
+			"foobar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/andrewskaper/rockit/lessons/CSS Lessons/Basic Properties/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/andrewskaper/rockit/lessons/CSS Lessons/Basic Properties/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "milestone1.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 67.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
