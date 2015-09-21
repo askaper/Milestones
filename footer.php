@@ -1,15 +1,5 @@
-<?php 
+<footer>
 
+	<p> &copy; 2015</p>
 
-?>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-</head>
-<body>
-	
-</body>
-</html>
+</footer>
