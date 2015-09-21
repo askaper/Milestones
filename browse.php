@@ -13,7 +13,7 @@
 		<a href="/product.php?id=75">Ubuntu</a>
 		<a href="/product.php?id=100">Windows</a>
 	</div>
-	<?php include 'footer.php' ?>
+	<?php include '/footer.php' ?>
 
 </body>
 </html>
