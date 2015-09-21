@@ -3,7 +3,7 @@ $output = '';
 if ($_GET['id']) {
 	$productid= $_GET['id']; }
 
-	$output = "You chose the ";
+	$output = "You chose ";
 	if ($productid == 50){
 		$output .= "MacBook.";
 	} else if ($productid == 75){
