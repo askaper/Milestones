@@ -23,9 +23,9 @@ if ($_GET['id']) {
 	<link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-	<?php include 'header.php' ?>
+	<?php include '/header.php' ?>
 	<h1><?php echo $output; ?></h1>
-	<?php include 'footer.php' ?>
+	<?php include '/footer.php' ?>
 
 </body>
 </html>
