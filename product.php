@@ -1,7 +1,5 @@
 <?php 
 
-$output = '';
-
 if ($_GET['id']) {
 	$productid = $_GET['id'];
 }
@@ -9,13 +7,13 @@ if ($_GET['id']) {
 $output = "You chose ";
 
 if ($productid == 50) {
-	$output .= "MacBook.";
+	$output .= "the MacBook.";
 } else if ($productid == 75) {
 	$output .= "Ubuntu.";
 } else if ($productid == 100) {
 	$output .= "Windows.";
 } else {
-	$output = "Invalid request";
+	$output = "Not Found";
 }
 
 ?>
