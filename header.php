@@ -1,18 +1,8 @@
 <header>
-	
-	<a href="index.php"><p class="logo">Business Site</p></a>
-	
+	<a href="index.php" class="logo">Business Site</a>
 	<nav>
-
-		<a href="index.php">Home</a>
-		<p>|</p>
-		<a href="contact.php">Contact</a>
-		<p>|</p>
+		<a href="index.php">Home</a> |
+		<a href="contact.php">Contact</a> |
 		<a href="browse.php">Browse Products</a>
-	
 	</nav>
 </header>
-
-
-
-	

@@ -7,12 +7,15 @@
 </head>
 
 <body>
+	
 	<?php include 'header.php' ?>
-
-	<p>The Best, Inc.</p>
-	<p>1234 Lorem Ipsum, Blvd.</p>
-	<p>San Francisco, CA 94101</p>
-	<p>555-555-5555</p>
+	
+	<ul class="addy">
+		<li>The Best, Inc.</li>
+		<li>1234 Lorem Ipsum, Blvd.</li>
+		<li>San Francisco, CA 94101</li>
+		<li>555-555-5555</li>
+	</ul>
 	
 	<?php include 'footer.php' ?>
 	

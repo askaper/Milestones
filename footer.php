@@ -1,5 +1,1 @@
-<footer>
-
-	<p> &copy; 2015</p>
-
-</footer>
+<footer>&copy; 2015</footer>
