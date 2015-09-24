@@ -8,7 +8,7 @@
 
 <body>
 	
-	<?php include 'header.php' ?>
+	<?php include 'header.php'; ?>
 	
 	<ul class="addy">
 		<li>The Best, Inc.</li>
@@ -17,7 +17,7 @@
 		<li>555-555-5555</li>
 	</ul>
 	
-	<?php include 'footer.php' ?>
+	<?php include 'footer.php'; ?>
 	
 </body>
 </html>

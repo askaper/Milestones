@@ -1,9 +1,6 @@
 <?php 
 
-if ($_GET['id']) {
-	$productid = $_GET['id'];
-}
-
+$productid = $_GET['id'];
 $output = "You chose ";
 
 if ($productid == 50) {

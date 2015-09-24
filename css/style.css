@@ -2,7 +2,7 @@ body {
 	background-image: url("/images/background.png");
 }
 
-header {
+.constant {
 	background-color: #fff;
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
@@ -28,26 +28,12 @@ header a {
 	color: #fff;
 }
 
-header p {
-	display: inline;
-	color: #fff;
-	font-size: 18px;
-}
-
-header h2 nav {
+.header {
 	padding: 5px;
 }
 
-footer {
-	background-color: #fff;
-	color: #000;
-	border-top: 1px solid #000;
-	border-bottom: 1px solid #000;
-	padding: 10px;
-	padding-left: 15px;
-}
 
-body .product a {
+.product a {
 	display: block;
 	font-size: 18px;
 }

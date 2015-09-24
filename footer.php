@@ -1,1 +1,1 @@
-<footer>&copy; 2015</footer>
+<footer class="constant">&copy; 2015</footer>
